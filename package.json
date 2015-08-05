@@ -1,0 +1,16 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "mobile app for hackathon",
+  "main": "jqmob.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery.cookie": "^1.4.1"
+  },
+  "devDependencies": {
+  }
+}
